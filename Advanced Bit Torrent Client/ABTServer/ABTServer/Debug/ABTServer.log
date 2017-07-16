@@ -1,0 +1,18 @@
+﻿Build started 25-04-2013 08:57:04.
+     1>Project "D:\Projects\18-2-13 project\ABTServer\ABTServer\ABTServer.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         F:\AJANTH 2013\VS 2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\ABTServer.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ABTServerDlg.cpp
+         ABTServerDlg.cpp
+     1>d:\projects\18-2-13 project\abtserver\abtserver\abtserverdlg.cpp(239): warning C4715: 'CABTServerDlg::check_upload' : not all control paths return a value
+     1>d:\projects\18-2-13 project\abtserver\abtserver\abtserverdlg.cpp(618): warning C4715: 'CABTServerDlg::check_username' : not all control paths return a value
+       Link:
+         F:\AJANTH 2013\VS 2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Projects\18-2-13 project\ABTServer\Debug\ABTServer.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"F:\AJANTH 2013\VS 2012\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\Projects\18-2-13 project\ABTServer\Debug\ABTServer.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Projects\18-2-13 project\ABTServer\Debug\ABTServer.lib" /MACHINE:X86 Debug\ABTServer.res
+         Debug\ABTServer.obj
+         Debug\ABTServerDlg.obj
+         Debug\stdafx.obj
+         ABTServer.vcxproj -> D:\Projects\18-2-13 project\ABTServer\Debug\ABTServer.exe
+     1>Done Building Project "D:\Projects\18-2-13 project\ABTServer\ABTServer\ABTServer.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:20.35

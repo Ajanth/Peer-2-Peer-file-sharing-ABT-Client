@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ABT.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ABTDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FTKernelAPI.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ProxyDummy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgMakeTorrent.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BrowseForFolder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SBDestination.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TextProgressCtrl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MemDC.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgMTProgress.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ListCtrlEx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ABTUI.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BTSButton.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Profile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VCheck.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Registration.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Login.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ADDPEER.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ABT.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ABTDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ProxyDummy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgMakeTorrent.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BrowseForFolder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SBDestination.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TextProgressCtrl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MemDC.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgMTProgress.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ListCtrlEx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ABTUI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BTSButton.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Profile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="VCheck.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Registration.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Login.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ADDPEER.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="ABT.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+    <ResourceCompile Include="Resource.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+    <ResourceCompile Include="Resource2.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+    <ResourceCompile Include="Resource1.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\ABT.rc2">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\ABT.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\cooltext927192331.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\cooltext927192331MouseOver.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Dev-Cpp\Icons\mainicon.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\windows_8_background-1920x1080 (1).png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\windows_8_background-1920x1080 (1).bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\bitmap3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\LAST.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\Downloadbright.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\downloaddark.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\pausebright.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\pausedark.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\playbright.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\playdark.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\uploadbright.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\uploaddark.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\playdark.bmp.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\min1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\min2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\x1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\x2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\login.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\REG.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\make.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
